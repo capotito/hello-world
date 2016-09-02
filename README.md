@@ -1,5 +1,5 @@
 # hello-world
 
-quiubo estoyestrenando esto
+quiubo estoy estrenando esto
 
 siguiendo instrucciones
